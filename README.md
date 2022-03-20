@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fenfenfenfan&theme=swift&show_icons=true&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="fenfenfenfan's github stats"/>
 
-🔭 I’m currently working as AI Research Engineer at HUST...
+🌱 I’m currently learning AI at HUST...
 
 <!--
 **fenfenfenfan/fenfenfenfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
