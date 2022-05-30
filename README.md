@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi Friends👋
 
 🌱 I'm studying at HUST...
 
