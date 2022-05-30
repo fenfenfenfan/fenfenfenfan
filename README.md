@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-<p>
-  <a href="https://github.com/fenfenfenfan?tab=followers"> <img src="https://img.shields.io/github/stars/fenfenfenfan?label=Stars&style=for-the-badge" height="22px" alt="github follow" /> </a>
-  <a href="mailto:wushaojin@hust.edu.cn"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=email&logoColor=white" height="22px" alt="Email">
-  <a href=""> <img src="https://img.shields.io/badge/Major-Physics-black?style=for-the-badge&logo=ABB%20RobotStudio&logoColor=ffffff" height="22px"> </a>
-  <a href=""> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="22px"> </a>
-  <a href=""> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="22px"> </a>
-  <a href=""> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="22px"> </a>
-</p>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fenfenfenfan&theme=swift&show_icons=true&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="fenfenfenfan's github stats"/>
 
 🌱 I’m currently learning AI at HUST...
