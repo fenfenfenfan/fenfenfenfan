@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
 🌱 I'm studying at HUST...
+
 ⚡ I'm interested in object detection...
 
 <!--
